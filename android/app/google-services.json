@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463845221264",
+    "project_id": "dilmun-a1",
+    "storage_bucket": "dilmun-a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463845221264:android:fc8f303183a9909b3cc915",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlW1-4DjZKMs8eOb01Dn0a3MRKVCIg9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463845221264:android:58703ab90b47da743cc915",
+        "android_client_info": {
+          "package_name": "com.dilmun.dilmun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlW1-4DjZKMs8eOb01Dn0a3MRKVCIg9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
